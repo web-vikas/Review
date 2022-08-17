@@ -15,7 +15,7 @@ body {
   align-items: center;
 }
 .center{
-    max-width: 400px;
+    max-width: 350px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@ body {
 .card-container{
     display: grid;
     place-items: center;
-    padding: 50px;
+    padding: 30px;
     background: white;
     border-radius: 10px;
 }
